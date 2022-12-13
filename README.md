@@ -29,18 +29,18 @@ Solutions for the [Advent JS](https://adventjs.dev/en) challenge
 | Day | Title                                            |      Level     |               Description                        |                Solutions                  |
 | --- | -------------------------------------------------| -------------- | ------------------------------------------------ | ----------------------------------------- |
 | 01 |       Automating Christmas gift wrapping!         |       🟢       | [View](https://adventjs.dev/challenges/2022/1)  | [Spoiler](./challenges/01/solution_01.js)  |
-| 02 |      Nobody wants to do extra hours at work       |       🟢       | [View](https://adventjs.dev/challenges/2022/2)  | [Spoiler](./challenges/01/solution_02.js)  |
-| 03 |      How many packs of gifts can Santa carry?     |       🟢       | [View](https://adventjs.dev/challenges/2022/3)  | [Spoiler](./challenges/01/solution_03.js)  |
-| 04 |          Box inside a box and another...          |       🟠       | [View](https://adventjs.dev/challenges/2022/4)  | [Spoiler](./challenges/01/solution_04.js)  |
+| 02 |      Nobody wants to do extra hours at work       |       🟢       | [View](https://adventjs.dev/challenges/2022/2)  | [Spoiler](./challenges/02/solution_02.js)  |
+| 03 |      How many packs of gifts can Santa carry?     |       🟢       | [View](https://adventjs.dev/challenges/2022/3)  | [Spoiler](./challenges/03/solution_03.js)  |
+| 04 |          Box inside a box and another...          |       🟠       | [View](https://adventjs.dev/challenges/2022/4)  | [Spoiler](./challenges/04/solution_04.js)  |
 | 05 |          Optimizing Santa's trips                 |       🔴       | [View](https://adventjs.dev/challenges/2022/5)  | [Spoiler]  |
-| 06 |          Creating xmas decorations                |       🟠       | [View](https://adventjs.dev/challenges/2022/6)  | [Spoiler](./challenges/01/solution_06.js)  |
-| 07 |           Doing gifts inventory                   |       🟢       | [View](https://adventjs.dev/challenges/2022/7)  | [Spoiler](./challenges/01/solution_07.js)  |
-| 08 |            We need a mechanic!                    |       🟠       | [View](https://adventjs.dev/challenges/2022/8)  | [Spoiler](./challenges/01/solution_08.js)  |
+| 06 |          Creating xmas decorations                |       🟠       | [View](https://adventjs.dev/challenges/2022/6)  | [Spoiler](./challenges/06/solution_06.js)  |
+| 07 |           Doing gifts inventory                   |       🟢       | [View](https://adventjs.dev/challenges/2022/7)  | [Spoiler](./challenges/07/solution_07.js)  |
+| 08 |            We need a mechanic!                    |       🟠       | [View](https://adventjs.dev/challenges/2022/8)  | [Spoiler](./challenges/08/solution_08.js)  |
 | 09 |              Crazy Xmas lights                    |       🟢       | [View](https://adventjs.dev/challenges/2022/9)  | [Spoiler]  |
-| 10 |          The Santa Claus sleigh jump              |       🟠       | [View](https://adventjs.dev/challenges/2022/10) | [Spoiler](./challenges/01/solution_10.js)  |
+| 10 |          The Santa Claus sleigh jump              |       🟠       | [View](https://adventjs.dev/challenges/2022/10) | [Spoiler](./challenges/10/solution_10.js)  |
 | 11 |          Santa Claus is Scrum Master              |       🔴       | [View](https://adventjs.dev/challenges/2022/11) | [Spoiler]  |
-| 12 |          Electric sleighs, wow!                   |       🟠       | [View](https://adventjs.dev/challenges/2022/12) | [Spoiler](./challenges/01/solution_12.js)  |
-| 13 |          Backups for Santa Claus files            |       🟢       | [View](https://adventjs.dev/challenges/2022/13) | [Spoiler](./challenges/01/solution_13.js)  |
+| 12 |          Electric sleighs, wow!                   |       🟠       | [View](https://adventjs.dev/challenges/2022/12) | [Spoiler](./challenges/12/solution_12.js)  |
+| 13 |          Backups for Santa Claus files            |       🟢       | [View](https://adventjs.dev/challenges/2022/13) | [Spoiler](./challenges/13/solution_13.js)  |
 
 
 [^1]: **Dificultad / Level**: 🟢 Fácil / Easy 🟠 Medio / Medium 🔴 Difícil / Hard 🟣 Muy Difícil / Very Hard
