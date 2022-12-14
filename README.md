@@ -4,7 +4,7 @@
 
 ## 💻 | Retos (ES)
 
-Soluciones para el reto [Advent JS](https://adventjs.dev/es)
+<b>Soluciones para el reto [AdventJS](https://adventjs.dev/es).</b>
 
 | Día | Título                                           | Dificultad     |               Descripción                         |                Soluciones              |
 | --- | ------------------------------------------------ | -------------- | ------------------------------------------------- | -------------------------------------- | 
@@ -16,7 +16,7 @@ Soluciones para el reto [Advent JS](https://adventjs.dev/es)
 | 06 |             Creando adornos navideños             |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/6)  | [Spoiler](./challenges/06/solution_06.js)  |
 | 07 |           Haciendo inventario de regalos          |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/7)  | [Spoiler](./challenges/07/solution_07.js)  |
 | 08 |              ¡Necesitamos un mecánico!            |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/8)  | [Spoiler](./challenges/08/solution_08.js)  |
-| 09 |             Las locas luces de Navidad            |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/9)  | [Spoiler]  |
+| 09 |             Las locas luces de Navidad            |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/9)  | [Spoiler](./challenges/09/solution_09.js)  |
 | 10 |          El salto del trineo de Papá Noel         |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/10) | [Spoiler](./challenges/10/solution_10.js)  |
 | 11 |             Papá Noel es Scrum Master             |       🔴       | [Ver](https://adventjs.dev/es/challenges/2022/11) | [Spoiler]  |
 | 12 |             Trineos eléctricos, ¡guau!            |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/12) | [Spoiler](./challenges/12/solution_12.js)  |
@@ -24,7 +24,7 @@ Soluciones para el reto [Advent JS](https://adventjs.dev/es)
 
 ## 💻 | Challenges (EN)
 
-Solutions for the [Advent JS](https://adventjs.dev/en) challenge
+<b>Solutions for the [AdventJS](https://adventjs.dev/en) challenge.</b>
 
 | Day | Title                                            |      Level     |               Description                        |                Solutions                  |
 | --- | -------------------------------------------------| -------------- | ------------------------------------------------ | ----------------------------------------- |
@@ -36,7 +36,7 @@ Solutions for the [Advent JS](https://adventjs.dev/en) challenge
 | 06 |          Creating xmas decorations                |       🟠       | [View](https://adventjs.dev/challenges/2022/6)  | [Spoiler](./challenges/06/solution_06.js)  |
 | 07 |           Doing gifts inventory                   |       🟢       | [View](https://adventjs.dev/challenges/2022/7)  | [Spoiler](./challenges/07/solution_07.js)  |
 | 08 |            We need a mechanic!                    |       🟠       | [View](https://adventjs.dev/challenges/2022/8)  | [Spoiler](./challenges/08/solution_08.js)  |
-| 09 |              Crazy Xmas lights                    |       🟢       | [View](https://adventjs.dev/challenges/2022/9)  | [Spoiler]  |
+| 09 |              Crazy Xmas lights                    |       🟢       | [View](https://adventjs.dev/challenges/2022/9)  | [Spoiler](./challenges/09/solution_09.js)  |
 | 10 |          The Santa Claus sleigh jump              |       🟠       | [View](https://adventjs.dev/challenges/2022/10) | [Spoiler](./challenges/10/solution_10.js)  |
 | 11 |          Santa Claus is Scrum Master              |       🔴       | [View](https://adventjs.dev/challenges/2022/11) | [Spoiler]  |
 | 12 |          Electric sleighs, wow!                   |       🟠       | [View](https://adventjs.dev/challenges/2022/12) | [Spoiler](./challenges/12/solution_12.js)  |

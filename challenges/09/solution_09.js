@@ -1,3 +1,5 @@
 function countTime(leds) {
-    return 0
+    const ledsEditedArr = leds.join('').split(1);
+    ledsEditedArr[0] += ledsEditedArr.pop();
+    return Math.max( ...ledsEditedArr.map( led => led.length * 7) );
 }
