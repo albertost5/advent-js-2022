@@ -16,12 +16,14 @@ function decorateTree(base) {
     for(let i = 0; i < baseArr.length; i++) {
         const arr = tree[i].split(' ');
         let str = '';
+
         arr.reduce((prev, current, index) => { 
-        const char = chars[`${prev}${current}`]
-        str += `${char} `;
-        prev = current;
-        if( index + 1 == arr.length ) tree.push( str.trim() );
-        return prev;
+            const char = chars[`${prev}${current}`]
+            str += `${char} `;
+            prev = current;
+            if( index + 1 == arr.length ) tree.push( str.trim() );
+
+            return prev;
         });
     }
     return tree.reverse();
