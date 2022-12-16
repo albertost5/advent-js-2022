@@ -42,8 +42,8 @@
 | 11 |          Santa Claus is Scrum Master              |       🔴       | [View](https://adventjs.dev/challenges/2022/11) | [Spoiler]  |
 | 12 |          Electric sleighs, wow!                   |       🟠       | [View](https://adventjs.dev/challenges/2022/12) | [Spoiler](./challenges/12/solution_12.js)  |
 | 13 |          Backups for Santa Claus files            |       🟢       | [View](https://adventjs.dev/challenges/2022/13) | [Spoiler](./challenges/13/solution_13.js)  |
-| 14 |          Backups for Santa Claus files            |       🟠       | [View](https://adventjs.dev/challenges/2022/14) | [Spoiler]  |
-| 15 |          Backups for Santa Claus files            |       🟠       | [View](https://adventjs.dev/challenges/2022/15) | [Spoiler](./challenges/13/solution_15.js)  |
+| 14 |                 The best path                     |       🟠       | [View](https://adventjs.dev/challenges/2022/14) | [Spoiler]  |
+| 15 |          Decorating the Christmas tree            |       🟠       | [View](https://adventjs.dev/challenges/2022/15) | [Spoiler](./challenges/13/solution_15.js)  |
 
 
 [^1]: **Dificultad / Level**: 🟢 Fácil / Easy 🟠 Medio / Medium 🔴 Difícil / Hard 🟣 Muy Difícil / Very Hard
