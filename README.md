@@ -23,6 +23,10 @@
 | 13 |         Backup de los archivos de Papá Noel       |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/13) | [Spoiler](./challenges/13/solution_13.js)  |
 | 14 |                  El mejor camino                  |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/14) | [Spoiler]   |
 | 15 |           Decorando el árbol de Navidad           |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/15) | [Spoiler](./challenges/15/solution_15.js)  |
+| 16 |         Arreglando las cartas de Papá Noel        |       🔴       | [Ver](https://adventjs.dev/es/challenges/2022/16) | [Spoiler]   |
+| 17 |         Llevando los regalos en sacos             |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/17) | [Spoiler]   |
+| 18 |              ¡Nos quedamos sin tinta!             |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/18) | [Spoiler](./challenges/18/solution_18.js)   |
+
 ## 💻 | Challenges (EN)
 
 <b>Solutions for the [AdventJS](https://adventjs.dev/en) challenge.</b>
@@ -43,7 +47,10 @@
 | 12 |          Electric sleighs, wow!                   |       🟠       | [View](https://adventjs.dev/challenges/2022/12) | [Spoiler](./challenges/12/solution_12.js)  |
 | 13 |          Backups for Santa Claus files            |       🟢       | [View](https://adventjs.dev/challenges/2022/13) | [Spoiler](./challenges/13/solution_13.js)  |
 | 14 |                 The best path                     |       🟠       | [View](https://adventjs.dev/challenges/2022/14) | [Spoiler]  |
-| 15 |          Decorating the Christmas tree            |       🟠       | [View](https://adventjs.dev/challenges/2022/15) | [Spoiler](./challenges/13/solution_15.js)  |
+| 15 |          Decorating the Christmas tree            |       🟠       | [View](https://adventjs.dev/challenges/2022/15) | [Spoiler](./challenges/15/solution_15.js)  |
+| 16 |          Fixing Santa Claus' letters              |       🔴       | [View](https://adventjs.dev/challenges/2022/16) | [Spoiler]  |
+| 17 |              Carrying gifts in bags               |       🟠       | [View](https://adventjs.dev/challenges/2022/17) | [Spoiler]  |
+| 18 |                  We ran out of ink!               |       🟢       | [View](https://adventjs.dev/challenges/2022/18) | [Spoiler](./challenges/15/solution_18.js)  |
 
 
 [^1]: **Dificultad / Level**: 🟢 Fácil / Easy 🟠 Medio / Medium 🔴 Difícil / Hard 🟣 Muy Difícil / Very Hard
