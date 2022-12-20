@@ -18,7 +18,7 @@
 | 08 |              ¡Necesitamos un mecánico!            |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/8)  | [Spoiler](./challenges/08/solution_08.js)  |
 | 09 |             Las locas luces de Navidad            |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/9)  | [Spoiler](./challenges/09/solution_09.js)  |
 | 10 |          El salto del trineo de Papá Noel         |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/10) | [Spoiler](./challenges/10/solution_10.js)  |
-| 11 |             Papá Noel es Scrum Master             |       🔴       | [Ver](https://adventjs.dev/es/challenges/2022/11) | [Spoiler]  |
+| 11 |             Papá Noel es Scrum Master             |       🔴       | [Ver](https://adventjs.dev/es/challenges/2022/11) | [Spoiler](./challenges/11/solution_11.js)  |
 | 12 |             Trineos eléctricos, ¡guau!            |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/12) | [Spoiler](./challenges/12/solution_12.js)  |
 | 13 |         Backup de los archivos de Papá Noel       |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/13) | [Spoiler](./challenges/13/solution_13.js)  |
 | 14 |                  El mejor camino                  |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/14) | [Spoiler]   |
@@ -44,7 +44,7 @@
 | 08 |            We need a mechanic!                    |       🟠       | [View](https://adventjs.dev/challenges/2022/8)  | [Spoiler](./challenges/08/solution_08.js)  |
 | 09 |              Crazy Xmas lights                    |       🟢       | [View](https://adventjs.dev/challenges/2022/9)  | [Spoiler](./challenges/09/solution_09.js)  |
 | 10 |          The Santa Claus sleigh jump              |       🟠       | [View](https://adventjs.dev/challenges/2022/10) | [Spoiler](./challenges/10/solution_10.js)  |
-| 11 |          Santa Claus is Scrum Master              |       🔴       | [View](https://adventjs.dev/challenges/2022/11) | [Spoiler]  |
+| 11 |          Santa Claus is Scrum Master              |       🔴       | [View](https://adventjs.dev/challenges/2022/11) | [Spoiler](./challenges/10/solution_11.js)  |
 | 12 |          Electric sleighs, wow!                   |       🟠       | [View](https://adventjs.dev/challenges/2022/12) | [Spoiler](./challenges/12/solution_12.js)  |
 | 13 |          Backups for Santa Claus files            |       🟢       | [View](https://adventjs.dev/challenges/2022/13) | [Spoiler](./challenges/13/solution_13.js)  |
 | 14 |                 The best path                     |       🟠       | [View](https://adventjs.dev/challenges/2022/14) | [Spoiler]  |
