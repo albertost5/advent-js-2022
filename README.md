@@ -24,8 +24,9 @@
 | 14 |                  El mejor camino                  |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/14) | [Spoiler]   |
 | 15 |           Decorando el árbol de Navidad           |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/15) | [Spoiler](./challenges/15/solution_15.js)  |
 | 16 |         Arreglando las cartas de Papá Noel        |       🔴       | [Ver](https://adventjs.dev/es/challenges/2022/16) | [Spoiler]   |
-| 17 |         Llevando los regalos en sacos             |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/17) | [Spoiler]   |
+| 17 |         Llevando los regalos en sacos             |       🟠       | [Ver](https://adventjs.dev/es/challenges/2022/17) | [Spoiler](./challenges/17/solution_17.js)   |
 | 18 |              ¡Nos quedamos sin tinta!             |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/18) | [Spoiler](./challenges/18/solution_18.js)   |
+| 19 |                 Ordenando los regalos             |       🟢       | [Ver](https://adventjs.dev/es/challenges/2022/19) | [Spoiler](./challenges/19/solution_19.js)   |
 
 ## 💻 | Challenges (EN)
 
@@ -49,8 +50,9 @@
 | 14 |                 The best path                     |       🟠       | [View](https://adventjs.dev/challenges/2022/14) | [Spoiler]  |
 | 15 |          Decorating the Christmas tree            |       🟠       | [View](https://adventjs.dev/challenges/2022/15) | [Spoiler](./challenges/15/solution_15.js)  |
 | 16 |          Fixing Santa Claus' letters              |       🔴       | [View](https://adventjs.dev/challenges/2022/16) | [Spoiler]  |
-| 17 |              Carrying gifts in bags               |       🟠       | [View](https://adventjs.dev/challenges/2022/17) | [Spoiler]  |
-| 18 |                  We ran out of ink!               |       🟢       | [View](https://adventjs.dev/challenges/2022/18) | [Spoiler](./challenges/15/solution_18.js)  |
+| 17 |              Carrying gifts in bags               |       🟠       | [View](https://adventjs.dev/challenges/2022/17) | [Spoiler](./challenges/17/solution_17.js)  |
+| 18 |              We ran out of ink!                   |       🟢       | [View](https://adventjs.dev/challenges/2022/18) | [Spoiler](./challenges/18/solution_18.js)  |
+| 19 |              Sorting the toys!                    |       🟢       | [View](https://adventjs.dev/challenges/2022/19) | [Spoiler](./challenges/19/solution_19.js)  |
 
 
 [^1]: **Dificultad / Level**: 🟢 Fácil / Easy 🟠 Medio / Medium 🔴 Difícil / Hard 🟣 Muy Difícil / Very Hard
